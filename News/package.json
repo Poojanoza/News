@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://Poojanoza.github.io/News", 
+  "homepage": "https://Poojanoza.github.io/News",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
@@ -40,5 +40,4 @@
     "vite-plugin-vue-devtools": "^7.6.8",
     "vue-tsc": "^2.1.10"
   }
-  
 }
